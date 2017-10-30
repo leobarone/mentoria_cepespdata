@@ -18,7 +18,7 @@
 
 ### _Coordenação_
 
-__Leonardo Sangali Barone__ - Mestre e Doutor em Adm. Pública e Governo (FGV-SP), pós-doutorando no DCP-USP e pesquisador do CEBRAP. Foi pesquisador do CEPESP-FGV. Bacharel em Adm. de Empresas (FGV-SP) e em Ciências Socias (USP). Graduando em Mat. Aplicada e Computacional (USP).
+* __Leonardo Sangali Barone__ - Mestre e Doutor em Adm. Pública e Governo (FGV-SP), pós-doutorando no DCP-USP e pesquisador do CEBRAP. Foi pesquisador do CEPESP-FGV. Bacharel em Adm. de Empresas (FGV-SP) e em Ciências Socias (USP). Graduando em Mat. Aplicada e Computacional (USP).
 
 ### _Equipe_
 
