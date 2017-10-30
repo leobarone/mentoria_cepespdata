@@ -1,0 +1,51 @@
+---
+title: "1o Desafio CEPESPdata"
+subtitle: "Decifrando as eleições"
+author: "Equipe de mentoria"
+output: beamer_presentation
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Agenda
+
+* Apresentação da equipe de mentoras e mentores do Desafio CEPESPdata
+* Como contatar a equipe de mentoria?
+
+## Equipe de Mentoras e Mentores
+
+### _Coordenação_
+
+* __Leonardo Sangali Barone__ - Mestre e Doutor em Adm. Pública e Governo (FGV-SP), pós-doutorando no DCP-USP e pesquisador do CEBRAP. Foi pesquisador do CEPESP-FGV. Bacharel em Adm. de Empresas (FGV-SP) e em Ciências Socias (USP). Graduando em Mat. Aplicada e Computacional (USP).
+
+## Equipe de Mentoras e Mentores
+
+Começando pelos mentores presentes: 
+
+* __Cassio Oliveira__ Mestrando em ciência política pela USP, tem interesse em instituições políticas e judiciais.
+
+* __Eduardo Lazzari__ - Mestre e doutorando em Ciência Política pela USP. Estuda sistema tributário brasileiro e desigualdades. Bacharel em Relações Internacionais (PUC-SP) e Ciências Sociais (USP).
+
+* __Thiago Meirelles__ - Mestre e doutorando em ciência política pela USP com pesquisa comparada sobre políticas em governos subnacionais. Bacharel em Relações Internacionais pela UNESP.
+
+## Equipe de Mentoras e Mentores
+
+* __Graziella Silloto__ - Mestre e doutoranda em ciência política pela Universidade de São Paulo, pesquisadora do Núcleo de Estudos Comparados e Internacionais (Neci-USP) e do Centro Brasileiro de Análise e Planejamento (Cebrap). Atua na área de estudos eleitorais com enfoque em estratégias partidárias, voto pessoal e geografia eleitoral. 
+
+* __Marina Merlo__ - Mestranda em Ciência Política pela Universidade de São Paulo e pesquisadora associada do CEBRAP. Assessora técnica na Secretaria Municipal de Inovação e Tecnologia e co-fundadora do Grupo de Estudos de Gênero e Política (Gepô) da USP. Foi pesquisadora do CEPESP-FGV.
+
+* __Caio Leite Rabelo__ - Mestrando em Ciência Política na Universidade de São Paulo. Cientista Político pela UFPE.
+
+## Como contatar a mentoria?
+
+* Solicitação de mentoria: sob demanda.
+
+* Escrever para [leobarone@gmail.com](leobarone@gmail.com) com o título "MENTORIA CEPESP" para receber a indicação um(a) mentor(a).
+
+* Acompanhamento por e-mail.
+
+* Não há ninguém na equipe com competências para resolver sua dúvida? Encaminhamento da questões para outros colegas da comunidade de programadores e pesquisadores do CEPESP-FGV.
+
+* FAQ da mentoria e issues do repositório da mentoria: [https://github.com/leobarone/mentoria_cepespdata](https://github.com/leobarone/mentoria_cepespdata)
