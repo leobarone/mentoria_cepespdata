@@ -4,11 +4,11 @@
 
 * Solicitação de mentoria: sob demanda.
 
-* Escrever para leobarone@gmail.com com o título "MENTORIA CEPESP" para receber a indicação um(a) mentor(a).
+* Escrever para [leobarone@gmail.com](leobarone@gmail.com) com o título "MENTORIA CEPESP" para receber a indicação um(a) mentor(a).
 
 * Acompanhamento por e-mail.
 
-* Não tem ninguém na equipe com competências para resolver sua dúvida? Encaminhamento da questões para outros colegas da comunidade do CEPESP.
+* Não há ninguém na equipe com competências para resolver sua dúvida? Encaminhamento da questões para outros colegas da comunidade de programadores e pesquisadores do CEPESP-FGV.
 
 ## FAQ da mentoria
 
@@ -22,14 +22,14 @@
 
 ### _Equipe_
 
-* __Cassio Oliveira__
+* __Caio Leite Rabelo__ - Mestrando em Ciência Política na Universidade de São Paulo. Cientista Político pela UFPE.
 
-* __Eduardo Lazzari__ - Bacharel em Relações Internacionais (PUC-SP) e Ciências Sociais (USP), mestre e doutorando em Ciência Política pela USP. Estuda sistema tributário brasileiro e desigualdades.
+* __Cassio Oliveira__ Mestrando em ciência política pela USP, tem interesse em instituições políticas e judiciais.
 
-* __Thiago Meirelles__ - Doutorando em ciência política pela USP com pesquisa comparada sobre políticas em governos subnacionais. Mestre em Ciência Política pela USP e bacharel em Relações Internacionais pela UNESP.
+* __Eduardo Lazzari__ - Mestre e doutorando em Ciência Política pela USP. Estuda sistema tributário brasileiro e desigualdades. Bacharel em Relações Internacionais (PUC-SP) e Ciências Sociais (USP).
 
 * __Graziella Silloto__ - Mestre e doutoranda em ciência política pela Universidade de São Paulo, pesquisadora do Núcleo de Estudos Comparados e Internacionais (Neci-USP) e do Centro Brasileiro de Análise e Planejamento (Cebrap). Atua na área de estudos eleitorais com enfoque em estratégias partidárias, voto pessoal e geografia eleitoral. 
 
 * __Marina Merlo__ - Mestranda em Ciência Política pela Universidade de São Paulo e pesquisadora associada do CEBRAP. Assessora técnica na Secretaria Municipal de Inovação e Tecnologia e co-fundadora do Grupo de Estudos de Gênero e Política (Gepô) da USP. Foi pesquisadora do CEPESP-FGV.
 
-* __Caio Leite Rabelo__ - Cientista Político pela UFPE e mestrando em Ciência Política na Universidade de São Paulo
+* __Thiago Meirelles__ - Mestre e doutorando em ciência política pela USP com pesquisa comparada sobre políticas em governos subnacionais. Bacharel em Relações Internacionais pela UNESP.
