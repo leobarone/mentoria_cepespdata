@@ -22,14 +22,12 @@
 
 ### _Equipe_
 
-* __Caio Leite Rabelo__ - Mestrando em Ciência Política na Universidade de São Paulo. Cientista Político pela UFPE.
+* __Cassio Santos Pinto de Oliveira__ Mestrando em ciência política pela USP, tem interesse em instituições políticas e judiciais.
 
-* __Cassio Oliveira__ Mestrando em ciência política pela USP, tem interesse em instituições políticas e judiciais.
+* __Eduardo Alves Lazzari__ - Mestre e doutorando em Ciência Política pela USP. Estuda sistema tributário brasileiro e desigualdades. Bacharel em Relações Internacionais (PUC-SP) e Ciências Sociais (USP).
 
-* __Eduardo Lazzari__ - Mestre e doutorando em Ciência Política pela USP. Estuda sistema tributário brasileiro e desigualdades. Bacharel em Relações Internacionais (PUC-SP) e Ciências Sociais (USP).
-
-* __Graziella Silloto__ - Mestre e doutoranda em ciência política pela Universidade de São Paulo, pesquisadora do Núcleo de Estudos Comparados e Internacionais (Neci-USP) e do Centro Brasileiro de Análise e Planejamento (Cebrap). Atua na área de estudos eleitorais com enfoque em estratégias partidárias, voto pessoal e geografia eleitoral. 
+* __Graziele Silotto__ - Mestre e doutoranda em ciência política pela Universidade de São Paulo, pesquisadora do Núcleo de Estudos Comparados e Internacionais (Neci-USP) e do Centro Brasileiro de Análise e Planejamento (Cebrap). Atua na área de estudos eleitorais com enfoque em estratégias partidárias, voto pessoal e geografia eleitoral. 
 
 * __Marina Merlo__ - Mestranda em Ciência Política pela Universidade de São Paulo e pesquisadora associada do CEBRAP. Assessora técnica na Secretaria Municipal de Inovação e Tecnologia e co-fundadora do Grupo de Estudos de Gênero e Política (Gepô) da USP. Foi pesquisadora do CEPESP-FGV.
 
-* __Thiago Meirelles__ - Mestre e doutorando em ciência política pela USP com pesquisa comparada sobre políticas em governos subnacionais. Bacharel em Relações Internacionais pela UNESP.
+* __Thiago de Oliveira Meireles__ - Mestre e doutorando em ciência política pela USP com pesquisa comparada sobre políticas em governos subnacionais. Bacharel em Relações Internacionais pela UNESP.
