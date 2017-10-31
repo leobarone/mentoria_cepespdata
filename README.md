@@ -12,7 +12,13 @@
 
 ## FAQ da mentoria
 
+__P: É possível obter votos por seção na API?__
 
+R: Atualmente, não é possível. Em breve, porém, esse nível de agregação será incluído.
+
+__P: Qual é o framework de gerenciamento de requisições http__?
+
+R: _flask_, que é um framework em python para web development
 
 ## Equipe de mentoras e mentores
 
