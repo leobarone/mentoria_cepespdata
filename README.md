@@ -20,6 +20,10 @@ __P: Qual é o framework de gerenciamento de requisições http__?
 
 R: _flask_, que é um framework em python para web development
 
+__P: Por que os valores de prestação de contas de candidatos estão errados na base de eleitos por zona__?
+
+R: Os valores de prestação de contas nas planilhas de candidatos vão estar por que o que o TSE divulga nessa base não é o valor correto.
+
 ## Equipe de mentoras e mentores
 
 ### _Coordenação_
