@@ -34,6 +34,6 @@ R: _flask_, que é um framework em python para web development
 
 * __Graziele Silotto__ - Mestre e doutoranda em ciência política pela Universidade de São Paulo, pesquisadora do Núcleo de Estudos Comparados e Internacionais (Neci-USP) e do Centro Brasileiro de Análise e Planejamento (Cebrap). Atua na área de estudos eleitorais com enfoque em estratégias partidárias, voto pessoal e geografia eleitoral. 
 
-* __Marina Merlo__ - Mestranda em Ciência Política pela Universidade de São Paulo e pesquisadora associada do CEBRAP. Assessora técnica na Secretaria Municipal de Inovação e Tecnologia e co-fundadora do Grupo de Estudos de Gênero e Política (Gepô) da USP. Foi pesquisadora do CEPESP-FGV.
+* __Marina Merlo__ - Mestra em Ciência Política pela Universidade de São Paulo e pesquisadora associada do CEBRAP. Assessora técnica na Secretaria Municipal de Inovação e Tecnologia e co-fundadora do Grupo de Estudos de Gênero e Política (Gepô) da USP. Foi pesquisadora do CEPESP-FGV.
 
 * __Thiago de Oliveira Meireles__ - Mestre e doutorando em ciência política pela USP com pesquisa comparada sobre políticas em governos subnacionais. Bacharel em Relações Internacionais pela UNESP.
